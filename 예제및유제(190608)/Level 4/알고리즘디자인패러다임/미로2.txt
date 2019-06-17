@@ -1,0 +1,10 @@
+s o o o o o o o o o
+o x x x x x x x x o
+o x o o o o o o x o
+o x o x x x x o x o
+o x o o o o x o x o
+o x o x o d x o x o
+o x o x x x x o x o
+o x o o o o o o x o
+o x x x x x x o x o
+o o o o o o o o o o
